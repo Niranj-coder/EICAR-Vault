@@ -1,12 +1,13 @@
-# EICAR-Vault
-'A text of strings that antivirus engines flag as malicious but it's actually not.. Just to test if the antivirus is working or not.' ( A very basic script...)
+# EICAR-Vault 
 
-### 🔓 How to use:
-1. Download the `eicar_sample.zip` file from this repository.
-2. Unzip it using the password below.
-3. If your antivirus is active, it should flag or delete the file immediately.
+Harmless EICAR test files to check if your antivirus is working.  
+(Not real virus — just the standard test string.)
 
-**Password:** `infected`
+### How to use
+1. Download eicar_sample.zip  
+2. Unzip with password: **infected**  
+3. Scan the file — AV should flag it if active.
 
----
-*Note: This is a harmless industry-standard string used for security testing.*
+**Password:** infected
+
+**Note:** 100% harmless industry test file. 
