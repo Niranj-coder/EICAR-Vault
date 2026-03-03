@@ -1,6 +1,6 @@
 # EICAR-Vault 
 
-Harmless EICAR test files to check if your antivirus is working.(simple script)
+Harmless EICAR test files to check if your antivirus is working.(simple script for testing )
 (Not real virus — just the standard test string.)
 
 ### How to use
